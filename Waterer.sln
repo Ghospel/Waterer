@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Waterer.API", "Waterer.API\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Waterer.Blazor", "Waterer.Blazor\Waterer.Blazor.csproj", "{13FECE0F-7288-45D2-9C30-5EBD35F08A0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Waterer.Common", "Waterer.Common\Waterer.Common.csproj", "{FCA578EA-9A80-4475-9906-580F74416F9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Waterer.Common", "Waterer.Common\Waterer.Common.csproj", "{FCA578EA-9A80-4475-9906-580F74416F9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Waterer.Data", "Data\Waterer.Data.csproj", "{8116B4CA-8F22-4D00-9CE9-54515873EB9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Waterer.Data", "Waterer.Data\Waterer.Data.csproj", "{834D8947-4FC1-4CA2-BA97-41D11B6CA6CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{FCA578EA-9A80-4475-9906-580F74416F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCA578EA-9A80-4475-9906-580F74416F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCA578EA-9A80-4475-9906-580F74416F9E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8116B4CA-8F22-4D00-9CE9-54515873EB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8116B4CA-8F22-4D00-9CE9-54515873EB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8116B4CA-8F22-4D00-9CE9-54515873EB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8116B4CA-8F22-4D00-9CE9-54515873EB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{834D8947-4FC1-4CA2-BA97-41D11B6CA6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834D8947-4FC1-4CA2-BA97-41D11B6CA6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834D8947-4FC1-4CA2-BA97-41D11B6CA6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834D8947-4FC1-4CA2-BA97-41D11B6CA6CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
